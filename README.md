@@ -9,6 +9,8 @@
 
 2018.9  갑자기 투명도가 증가 --> 거래량 대폭 감소
 
+<아래 이미지의 플래쉬 형태 위의 파일에서 확인가능>
+
 ![그림2](https://user-images.githubusercontent.com/47768004/74584655-28131d80-5018-11ea-9037-4839ffb575da.gif)
 
 ![캡처3](https://user-images.githubusercontent.com/47768004/74584682-5ee93380-5018-11ea-84d5-69aae1f7d4fb.JPG)
